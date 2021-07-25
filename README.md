@@ -2,7 +2,7 @@
 
 <center>
   <a>
-    <img src="banner.png" width="400" height="120">
+    <img src="banner.png" width="250" height="75">
   </a>
 </center>
 
