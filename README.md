@@ -1,8 +1,10 @@
 # Phoenix
 
-<a align=center>
-  <img src="banner.png" width="650" height="150">
-</a>
+<center>
+  <a>
+    <img src="banner.png" width="600" height="180">
+  </a>
+</center>
 
 Get subdomain and reverse ip list with easy tool
 
