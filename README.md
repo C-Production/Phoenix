@@ -1,6 +1,3 @@
-# Phoenix
-
-
 <p align=center>
   <img src="banner.png" width="250" height="75">
 </p>
